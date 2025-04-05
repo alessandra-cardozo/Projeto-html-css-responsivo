@@ -7,10 +7,10 @@ Bem-vindo ao meu projeto de **portfólio**! Este site foi criado com o objetivo 
 ## **📜 Sobre o Projeto**
 Este projeto apresenta um **layout moderno, responsivo e elegante**, com uma navegação intuitiva e elementos visuais atraentes. Nele você encontrará:
 - **Página Inicial**:
-  - Um destaque das minhas principais habilidades e objetivos profissionais.
-  - Links diretos para minhas redes sociais e plataformas profissionais.
+- Um destaque das minhas principais habilidades e objetivos profissionais.
+- Links diretos para minhas redes sociais e plataformas profissionais.
 - **Página Sobre Mim**:
-  - Uma descrição detalhada da minha trajetória profissional e meu foco atual na transição para a área de tecnologia.
+- Uma descrição detalhada da minha trajetória profissional e meu foco atual na transição para a área de tecnologia.
 
 Ambas as páginas utilizam uma combinação harmoniosa de tipografia, cores vibrantes e um layout flexível para garantir uma excelente experiência de navegação em qualquer dispositivo.
 
